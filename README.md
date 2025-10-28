@@ -4,8 +4,8 @@
 ## 🧠 About Me
 
 ### Hello 👋🏻
-I'm **Leandro Pereyra**, a student from **Argentina**.  
-Currently, I’m in the **sixth year** of a technical programming school.  
+I'm **Leandro Pereyra**,from **Argentina**.  
+Currently, I’m a **student** of a technical programming school.  
 In parallel, I'm also studying **English** at an academy and currently in the **fifth year** of the program — I can speak English as fluently as Spanish.
 
 Although I prefer **back-end development**, I also have strong knowledge of **front-end technologies**.  
