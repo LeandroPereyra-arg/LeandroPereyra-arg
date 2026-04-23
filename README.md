@@ -5,8 +5,8 @@
 
 ### Hello 👋🏻
 I'm **Leandro Pereyra**,from **Argentina**.  
-Currently, I’m a **student** of a technical programming school.  
-In parallel, I'm also studying **English** at an academy and currently in the **fifth year** of the program — I can speak English as fluently as Spanish.
+Currently, I’m a **student** of E.E.S.T N1 ESTEBAN ECHEVERRIA.  
+In parallel, I'm also studying **English** at an academy and currently in the **Seventh year** of the program — I can speak English as fluently as Spanish.
 
 Although I prefer **back-end development**, I also have strong knowledge of **front-end technologies**.  
 I'm very active, curious, and always eager to learn something new.  
