@@ -85,7 +85,7 @@ I adapt easily to teams and work very well in collaborative environments.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeandroPereyra-arg&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=LeandroPereyra-arg&theme=darkhub&no-frame=true" />
 </p>
 
 ---
