@@ -14,7 +14,7 @@ I adapt easily to teams and work very well in collaborative environments.
 
 ---
 
-
+https://camo.githubusercontent.com/0fced4deef3f7fc822aae953301a9fdda15552e1a95cd9ce0dd5c0b9a383be0f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d736861646f7575682673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874
 ## 🛠️ My Skills Include
  <h4> Languages </h4>
 <span> 
